@@ -1,0 +1,3 @@
+module SluggableArthur
+  VERSION = "0.0.1"
+end
